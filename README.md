@@ -14,3 +14,10 @@ This tool contains no ads and does not advertise any products.
 This tool is for downloads only.
 editing or reposting content violates the website's rules and copyright.
 Please read and accept the terms and conditions before installing this tool.
+
+# Source libraries and files
+This tool uses Python and the yt-dlp library.
+Binary files for post-processing: Ffmpeg and some of its accompanying libraries.
+
+# Download and installation instructions
+
