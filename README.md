@@ -20,4 +20,5 @@ This tool uses Python and the yt-dlp library.
 Binary files for post-processing: Ffmpeg and some of its accompanying libraries.
 
 # Download and installation instructions
-
+1. For Android, choose the APK version, and grant it file manager permissions upon startup.
+2. For Windows versions, choose the .exe file and install it like any other program.
