@@ -24,7 +24,7 @@ This tool is for downloads only. \
 editing or reposting content violates the website's rules and copyright. \
 Please read and accept the terms and conditions before installing this tool. \
 ----- Terms of Service ----- \
-This tool utilizes open-source libraries (yt-dlp, FFmpeg) to facilitate downloads from public platforms. \
+This tool utilizes libraries (yt-dlp, FFmpeg) to facilitate downloads from public platforms. \
 We do not own, host, or distribute any content. All copyrights belong to their respective owners. \
 You agree to download only content you own, public domain material, or content you have permission to use. Users are solely responsible for any copyright infringement. \
 We are not liable for any legal claims or losses resulting from the misuse of this tool.
