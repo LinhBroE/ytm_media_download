@@ -33,6 +33,12 @@ We are not liable for any legal claims or losses resulting from the misuse of th
 1. For Android, choose the APK version, and grant it file manager permissions upon startup.
 2. For Windows versions, choose the .exe file and install it like any other program.
 
+# Common errors
+1. Some sites may have time-limited sharing links if the sample data is corrupted, you need to retrieve a new link, after which everything will work.
+2. With Windows, you can get the link directly from your browser to the current video page.
+3. The resolution options might not match the website when you use manual quality settings, try setting them to "default" and it should work.
+4. If the "Scan" or download operation fails, it may be because the website is blocking access. Try "Cancel" or "Scan" again a few times, or get a new link it should work.
+
 # Images Android App
 ![Screenshot_2026-04-06-17-04-53-034_com tools yt downloader](https://github.com/user-attachments/assets/04ff7f7b-063b-4b96-b284-eaf050318e53)
 ![Screenshot_2026-04-06-17-05-47-496_com tools yt downloader](https://github.com/user-attachments/assets/b3cdd6e9-acdf-4300-8352-028968a6b776)
