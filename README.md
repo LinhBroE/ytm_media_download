@@ -7,7 +7,7 @@ Python - yt-dlp
 
 # Post-production
 Ffmpeg Essentials windows executable Cre: (https://www.gyan.dev/ffmpeg/builds/) \
-Ffmpeg android arm64 binary Cre: (https://github.com/husen-hn/ffmpeg-android-binary)
+Ffmpeg android binary this repo
 
 # cutting feature
 This feature only cuts the video or audio after it has finished loading. \
