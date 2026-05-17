@@ -6,7 +6,7 @@ Problem: (linh439912@gmail.com)
 Python - yt-dlp
 
 # Post-production
-Ffmpeg Essentials windows executable Cre: (https://www.gyan.dev/ffmpeg/builds/) \
+Ffmpeg windows executable this repo \
 Ffmpeg android binary this repo
 
 # cutting feature
